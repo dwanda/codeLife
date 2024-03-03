@@ -1,0 +1,55 @@
+# Compiled output
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env.local
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Local development server files
+.server/
+
+# Test coverage
+coverage/
+
+# Client-side build tools
+.cache/
+public/
+
+# Server-side build tools
+server/
+
+# Other
+*.config.js
+*.eslintcache
+*.prettierrc
+*.babelrc
+*.postcssrc
+*.webpack.config.js
+*.storybook
+*.yarn-error.log
